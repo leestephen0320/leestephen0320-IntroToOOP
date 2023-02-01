@@ -48,7 +48,7 @@ public class Bird {
         if(ageMonth < 3){
             return "Tweet";
         } else if(ageMonth >= 3){
-            return "Chirp"
+            return "Chirp";
         }
     }
 
